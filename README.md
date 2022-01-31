@@ -1,2 +1,2 @@
 # team02-w22-7pm-3-docs
-Docs for storybook
+This is a team02-w22-7pm-3-docs repository for storybook.
